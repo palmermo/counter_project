@@ -1,11 +1,12 @@
-body {background-color: navy}
+body {background-color: rgb(222, 122, 59)}
 
 #title { 
-  color: orangered; 
+  color: white; 
   width: 300px;
   margin-left: auto;
   text-align: center;
   margin-right: auto; 
+  margin-top: 10%;
   font-size: 175%;
 }
 
